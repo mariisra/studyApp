@@ -4,7 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { StudyCardsProvider } from './src/contexts/StudyCardsContext';
 import CardListScreen from './src/screens/CardListScreen';
 import CardEditScreen from './src/screens/CardEditScreen';
-import TasksDueSoonScreen from './src/screens/TasksDueSoonScreen';
+import TasksDueSoonScreen from './src/screens/TaskDueSoonSreen';
 
 const Stack = createStackNavigator();
 
